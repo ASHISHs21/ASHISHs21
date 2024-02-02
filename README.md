@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/ASHISHs21)
-
-## Watch my contribution graph get eaten by the snake 🐍
-
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![j-j-gajjar snake gif](https://github.com/ASHISHs21/ASHISHs21/blob/output/github-contribution-grid-snake-dark.svg)   
