@@ -22,9 +22,9 @@ I'm Ashish Singh, a seasoned System Administrator with a passion for optimizing 
 ![](https://github-contributor-stats.vercel.app/api?username=ASHISHs21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-### <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
+<!-- ### <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 ---
 [![](https://visitcount.itsvg.in/api?id=ASHISHs21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
