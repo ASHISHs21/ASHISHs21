@@ -12,6 +12,8 @@ I'm Ashish Singh, a seasoned System Administrator with a passion for optimizing 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ASHISHs21&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISHs21&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ASHISHs21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
