@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
 # 💫 About Me:
 I'm Ashish Singh, a seasoned System Administrator with a passion for optimizing and securing IT infrastructures.<br>My journey in the world of technology began 2 years ago, and since then, I've been dedicated to ensuring <br>seamless and efficient operations for various organizations.<br><br>💼 Professional Experience<br>In my professional journey, I've had the privilege of working with Tecocraft Infusion Pvt Ltd. and Drevol Software LLP.<br>These experiences have honed my skills in Operating Systems,Virtualization, Containerization, Scripting, Configuration Management,<br>Monitoring, Cloud Platforms and equipped me with a holisticunderstanding of the challenges faced by modern IT environments.<br><br>🤝 Let's Connect<br>I'm always open to collaboration and discussion on anything related to system administration, automation, or technology in general. <br>Feel free to reach out to me via LinkedIn or Twitter.
 
@@ -11,8 +12,6 @@ I'm Ashish Singh, a seasoned System Administrator with a passion for optimizing 
 ![](https://github-readme-stats.vercel.app/api?username=ASHISHs21&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ASHISHs21&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISHs21&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ASHISHs21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
