@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
 # 💫 About Me:
 I'm Ashish Singh, a seasoned System Administrator with a passion for optimizing and securing IT infrastructures.<br>My journey in the world of technology began 2 years ago, and since then, I've been dedicated to ensuring <br>seamless and efficient operations for various organizations.<br><br>💼 Professional Experience<br>In my professional journey, I've had the privilege of working with Tecocraft Infusion Pvt Ltd. and Drevol Software LLP.<br>These experiences have honed my skills in Operating Systems,Virtualization, Containerization, Scripting, Configuration Management,<br>Monitoring, Cloud Platforms and equipped me with a holisticunderstanding of the challenges faced by modern IT environments.<br><br>🤝 Let's Connect<br>I'm always open to collaboration and discussion on anything related to system administration, automation, or technology in general. <br>Feel free to reach out to me via LinkedIn or Twitter.
 
@@ -23,8 +22,8 @@ I'm Ashish Singh, a seasoned System Administrator with a passion for optimizing 
 ![](https://github-contributor-stats.vercel.app/api?username=ASHISHs21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+### <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<a href="https://app.daily.dev/ashish2406"><img src="https://api.daily.dev/devcards/4c4c85edc2364795824f1fb60a4e700e.png?r=zyc" width="400" alt="Ashish Singh's Dev Card"/></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=ASHISHs21&icon=0&color=0)](https://visitcount.itsvg.in)
 
